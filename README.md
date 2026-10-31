@@ -19,8 +19,8 @@ A simple stopwatch application built using Flutter and Dart. It provides basic s
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone git@github.com:HarshithPancheru/Stopwatch.git
+cd Stopwatch
 ```
 
 Install dependencies:
