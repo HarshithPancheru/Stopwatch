@@ -1,16 +1,40 @@
-# stopwatch
+# Flutter Stopwatch
 
-A new Flutter project.
+A simple stopwatch application built using Flutter and Dart. It provides basic stopwatch functionality with support for tracking individual time laps.
+
+## Features
+
+- **Start / Pause:** Start the stopwatch and pause it whenever needed.
+- **Lap Timer:** Record individual lap times while the stopwatch is running.
+- **Reset:** Reset the stopwatch and clear recorded laps.
+- **Lap History:** View previously recorded lap times.
+
+## Tech Stack
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone <repository-url>
+cd <project-directory>
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## Purpose
+
+Built as a simple Flutter project to explore mobile UI development, state management, timer functionality, and handling user interactions using Flutter.
